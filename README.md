@@ -10,6 +10,6 @@ Este formato se usa ampliamente no solo en GitHub, sino también en:
  - Blogs o gestores de contenido.
  - Entornos educativos o de aprendizaje online.
 
- La **lista oficial** de emojis soportados por GitHub se encuentra [aqui](https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file)
+ La **lista oficial** de emojis soportados por GitHub se encuentra [aqui.](https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file)
 
  Ejemplo de fragmento de código --> `print("Hola mundo")`
